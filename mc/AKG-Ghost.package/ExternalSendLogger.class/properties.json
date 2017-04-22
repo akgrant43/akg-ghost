@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "AKG-Ghost",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"logger",
+		"trace"
+	],
+	"name" : "ExternalSendLogger",
+	"type" : "normal"
+}

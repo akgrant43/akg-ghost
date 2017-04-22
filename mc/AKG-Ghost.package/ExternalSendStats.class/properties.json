@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "AlistairGrant 4/22/2017 19:12",
+	"super" : "Object",
+	"category" : "AKG-Ghost",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"trace",
+		"stats"
+	],
+	"name" : "ExternalSendStats",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "AlistairGrant 4/22/2017 09:59",
+	"super" : "GHGhostBehaviour",
+	"category" : "AKG-Ghost",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"target",
+		"announcer"
+	],
+	"name" : "ExternalSendTrace",
+	"type" : "normal"
+}
