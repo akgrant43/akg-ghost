@@ -1,7 +1,7 @@
 # akg-ghost
 akg-ghost provides two extensions to the Pharo Ghost module.
 
-Ghost is a neat package from Denis Kudriashov that allows you to set a breakpoint on an object, regardless of which message is sent to the object.
+Ghost is a neat package from Denis Kudriashov that allows you to set a breakpoint on an object, regardless of which message is sent to the object.  For an introduction, please see http://dionisiydk.blogspot.cz/2016/04/halt-next-object-call.html
 
 akg-ghost extends Denis' framework with two classes:
 
