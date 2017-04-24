@@ -9,7 +9,8 @@ baseline: spec
 			versionString: #stable;
 			repository: 'http://smalltalkhub.com/mc/Pharo/Ghost/main' ];
 
-		package: 'AKG-Ghost';
+		package: 'AKG-Ghost' with: [ 
+			spec requires: #('Beacon' 'Ghost') ];
 		
 		group: 'default' with: #('AKG-Ghost');
 		group: 'tests' with: #('AKG-Ghost-Tests');
