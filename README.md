@@ -26,3 +26,12 @@ trace stats.
 	#x->2 
 	#y->1 )"
 ```
+
+To load akg-ghost:
+
+```
+Metacello new 
+	baseline: 'AkgGhost';
+	repository: 'github://akgrant43/akg-ghost:master/mc';
+	load
+```
